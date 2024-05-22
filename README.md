@@ -34,5 +34,8 @@ Além disso, busco constantemente atualizações e treinamentos para me manter a
 
 📷 Compartilho por aqui meus projetos que tenho desenvolvido na minha carreira profissional.
 ##
-![fernandamattosqa GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandamattosqa&show_icons=true&theme=dracula)
-![fernandamattosqa GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamattosqa&layout=compact&theme=dracula)
+<div>
+<a href="https://github.com/fernandamattosqa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandamattosqa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandamattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
