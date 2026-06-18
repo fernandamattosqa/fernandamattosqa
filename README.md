@@ -21,15 +21,22 @@ Especializada em Testes de Aceitação do Usuário (UAT), Teste de Funcionalidad
     <img align="center" alt="alm" src="https://img.shields.io/badge/ALM-0052CC?style=for-the-badge&logo=hp&logoColor=white"/> 
     <img align="center" alt="tosca" src="https://img.shields.io/badge/tricentistosca-0052CC?style=for-the-badge&logo=Tricentis&logoColor=white"/> 
     <img align="center" alt="insomnia" src="https://img.shields.io/badge/insomnia-C100FF?style=for-the-badge&logo=insomnia&logoColor=white"/> 
-    <img align="center" alt="confluence" src="https://img.shields.io/badge/confluence-1E90FF?style=for-the-badge&logo=confluence&logoColor=white"/> 
+    <img align="center" alt="confluence" src="https://img.shields.io/badge/confluence-1E90FF?style=for-the-badge&logo=confluence&logoColor=<img align="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img align="center" alt="api" src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<img align="center" alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+
 
 </div><br/>
 
 💡 Uma pessoa proativa, responsável e comprometida em entregar resultados de qualidade. Ao longo da minha carreira, já atuei em projetos desafiadores, onde aprimorei minhas habilidades em comunicação, resolução de problemas e gerenciamento de tempo. 
 Além disso, busco constantemente atualizações e treinamentos para me manter atualizada com as novas tendências em qualidade de software.
-
-
-📚 Atualmente, estou cursando o 8º semestre do curso de Sistemas de Informação, o que me permite aprimorar minhas habilidades técnicas e aplicar as teorias aprendidas em sala de aula na prática do dia a di.
 
 
 📷 Compartilho por aqui meus projetos que tenho desenvolvido na minha carreira profissional.
