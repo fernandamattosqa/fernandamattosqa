@@ -6,7 +6,7 @@
 <!-- [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/matheus9989s-projects) -->
 ##
 ### Olá Pessoal !!! 👋👋👋
-Sou uma profissional dedicada na área de qualidade de software, com 3 anos de experiência em testes funcionais, automação e testes de regressão. 
+Sou uma profissional dedicada na área de qualidade de software, com experiência em testes funcionais, automação e testes de regressão. 
 Especializada em Testes de Aceitação do Usuário (UAT), Teste de Funcionalidade, Regressão e Integração. Comprometida em garantir a excelência e a eficiência dos sistemas, contribuindo para a entrega de software de alta qualidade.
 
 ##
